@@ -1,2 +1,1 @@
-# bokepindosd
-bokepindosd
+# [bokepindosd](https://bokepindosd.pages.dev)
